@@ -12,6 +12,8 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+dist/
+*.zip
 
 ## Visual Studio cache / files
 .vs/
