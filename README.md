@@ -40,3 +40,7 @@ Or launch via `RunClock.bat`.
 | **Resize** | Hover and scroll mouse wheel |
 | **Settings** | Right-click the clock or system tray icon |
 | **Toggle Click-Through** | Double-click the system tray icon |
+
+## License
+
+This project is licensed under the [MIT License](LICENSE) - free for everyone to use, modify, and distribute without restriction.
